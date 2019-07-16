@@ -1,0 +1,6 @@
+data*/*
+*.csv
+logs/*
+models/*
+.DS_Store
+.ipynb_checkpoints/
